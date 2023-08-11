@@ -2191,7 +2191,7 @@
     highlightName: true,
     highlightPath: false,
     highlightClass: 'text-light',
-    notFoundText: 'No hay elementos'
+    notFoundText: 'No element found!'
   };
   var SearchItems = [];
   /**
@@ -3067,3 +3067,5 @@
 
 }));
 //# sourceMappingURL=adminlte.js.map
+
+
